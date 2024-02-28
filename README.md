@@ -3,5 +3,5 @@
 <h3 align="center">Bauman Moscow State Technical University student. Mathematics and computer science</h3>
 
 Skills: C / C++ / Python
-- 🌱 I’m currently learning MFC library, OpenGL 
+- 🌱 I’m currently learning MFC library, OpenGL, Node.js
 - 📫 How to reach me: geo.m2019@mail.ru 
